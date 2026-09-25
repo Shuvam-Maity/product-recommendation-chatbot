@@ -1,0 +1,10 @@
+pandas
+numpy
+openpyxl
+sentence-transformers
+faiss-cpu
+fastapi
+uvicorn
+streamlit
+python-dotenv
+google-genai

@@ -1,0 +1,22 @@
+# Environment variables / secrets
+.env
+
+# Virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Raw datasets (large, not yours to redistribute)
+data/raw/*
+!data/raw/.gitkeep
+
+# Streamlit
+.streamlit/
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+.vscode/
